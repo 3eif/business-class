@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 1df82dc60e697db41b8943eeef88d85e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: (0.0, 0.0, 0.0)
+    100002: (0.0, 0.0, 0.0) 1
+    100004: (0.0, 0.0, 0.0) 2
+    100006: (0.0, 0.0, 0.0) 3
+    100008: (0.0, 0.0, 0.0) 4
+    100010: (0.0, 0.0, 0.0) 5
+    100012: //RootNode
+    100014: detail_propellerThree%_16
+    100016: gear_strut%_22
+    100018: landing_float%_23
+    100020: landing_float%_29
+    100022: plane_cockpitClassic_14
+    100024: plane_end_20
+    100026: plane_tailPoint%_21
+    100028: wind_endRound_31
+    100030: wind_endRound_32
+    400000: (0.0, 0.0, 0.0)
+    400002: (0.0, 0.0, 0.0) 1
+    400004: (0.0, 0.0, 0.0) 2
+    400006: (0.0, 0.0, 0.0) 3
+    400008: (0.0, 0.0, 0.0) 4
+    400010: (0.0, 0.0, 0.0) 5
+    400012: //RootNode
+    400014: detail_propellerThree%_16
+    400016: gear_strut%_22
+    400018: landing_float%_23
+    400020: landing_float%_29
+    400022: plane_cockpitClassic_14
+    400024: plane_end_20
+    400026: plane_tailPoint%_21
+    400028: wind_endRound_31
+    400030: wind_endRound_32
+    2100000: _defaultMat
+    2100002: blueSteel
+    2100004: glass
+    2300000: (0.0, 0.0, 0.0)
+    2300002: (0.0, 0.0, 0.0) 1
+    2300004: (0.0, 0.0, 0.0) 2
+    2300006: (0.0, 0.0, 0.0) 3
+    2300008: (0.0, 0.0, 0.0) 4
+    2300010: (0.0, 0.0, 0.0) 5
+    2300012: detail_propellerThree%_16
+    2300014: gear_strut%_22
+    2300016: landing_float%_23
+    2300018: landing_float%_29
+    2300020: plane_cockpitClassic_14
+    2300022: plane_end_20
+    2300024: plane_tailPoint%_21
+    2300026: wind_endRound_31
+    2300028: wind_endRound_32
+    3300000: (0.0, 0.0, 0.0)
+    3300002: (0.0, 0.0, 0.0) 1
+    3300004: (0.0, 0.0, 0.0) 2
+    3300006: (0.0, 0.0, 0.0) 3
+    3300008: (0.0, 0.0, 0.0) 4
+    3300010: (0.0, 0.0, 0.0) 5
+    3300012: detail_propellerThree%_16
+    3300014: gear_strut%_22
+    3300016: landing_float%_23
+    3300018: landing_float%_29
+    3300020: plane_cockpitClassic_14
+    3300022: plane_end_20
+    3300024: plane_tailPoint%_21
+    3300026: wind_endRound_31
+    3300028: wind_endRound_32
+    4300000: (0.0, 0.0, 0.0)
+    4300002: (0.0, 0.0, 0.0)
+    4300004: (0.0, 0.0, 0.0)
+    4300006: (0.0, 0.0, 0.0)
+    4300008: (0.0, 0.0, 0.0)
+    4300010: (0.0, 0.0, 0.0)
+    4300012: plane_cockpitClassic_14
+    4300014: detail_propellerThree%_16
+    4300016: plane_end_20
+    4300018: plane_tailPoint%_21
+    4300020: gear_strut%_22
+    4300022: landing_float%_23
+    4300024: landing_float%_29
+    4300026: wind_endRound_31
+    4300028: wind_endRound_32
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.05
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Light UI/Menu.unity
+    guid: 122229d8ecfd0fa428014cc37a14fefb
+  - enabled: 1
+    path: Assets/Scenes/Light UI/Instructions.unity
+    guid: 7916394c13e084f7d99abc6d173aa491
+  - enabled: 1
+    path: Assets/Scenes/Light UI/Credits.unity
+    guid: 8edce866161114d13bc7ad1724a9ca1a
+  - enabled: 1
+    path: Assets/Scenes/Light UI/GameMode.unity
+    guid: 79777381f461d493a8c7c5a2bea8efa5
+  - enabled: 1
+    path: Assets/Scenes/Light UI/Shop.unity
+    guid: e3486517663ecb84f8802e13dd425e5c
+  - enabled: 1
+    path: Assets/Scenes/Maps/Castle Map.unity
+    guid: dfc2ede88e47242ce891fbe500e8168a
+  - enabled: 1
+    path: Assets/Scenes/Maps/City Map.unity
+    guid: a45266f6e74adf64d9a7a39fa6e400ac
+  - enabled: 1
+    path: Assets/Scenes/Maps/Endless Map.unity
+    guid: 2085709a462470b4f92471fc8abe60bb
+  - enabled: 1
+    path: Assets/Scenes/Maps/House Map.unity
+    guid: 6e086a0752707a34aa22d58dc24fdce6
+  - enabled: 1
+    path: Assets/Scenes/Maps/Nature Map.unity
+    guid: a553367683a9b4cc3a53de09503626c5
+  - enabled: 1
+    path: Assets/Scenes/Dark UI/Dark_Credits.unity
+    guid: 2ef4b6b705bce48c8a7fadc86ac815c6
+  - enabled: 1
+    path: Assets/Scenes/Dark UI/Dark_GameMode.unity
+    guid: dc992186b48314b7187afd243e49da70
+  - enabled: 1
+    path: Assets/Scenes/Dark UI/Dark_Instructions.unity
+    guid: 7ac1c1cb9569c48fb87bba67cce29fa4
+  - enabled: 1
+    path: Assets/Scenes/Dark UI/Dark_LvlSelect.unity
+    guid: abcfd93750e8040a0a78b9461eb10be4
+  - enabled: 1
+    path: Assets/Scenes/Dark UI/Dark_Menu.unity
+    guid: c039c2b59a66b4cea9ee1ed998f4e602
+  - enabled: 1
+    path: Assets/Scenes/Dark UI/Dark_Shop.unity
+    guid: c3df73c514ee34cb3a18fdc09738eaaf
+  - enabled: 1
+    path: Assets/Scenes/Light UI/Levels.unity
+    guid: 6fb56e68c4f0b4511b88a9d2e0ed7c84
+  - enabled: 1
+    path: Assets/Scenes/Dark UI/Dark_GameMode.unity
+    guid: dc992186b48314b7187afd243e49da70
+  - enabled: 1
+    path: Assets/Scenes/Maps/Endless Map.unity
+    guid: 2085709a462470b4f92471fc8abe60bb
+  m_configObjects: {}
